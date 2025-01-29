@@ -15,7 +15,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/sergpryimachuk/MilitarySymbologyAssets", branch: "main"),
+        .package(url: "https://github.com/sherstyukzp/MilitarySymbologyAssets", branch: "main"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
